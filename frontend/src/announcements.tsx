@@ -28,9 +28,9 @@ export const announcements: Announcement[] = [
                 <a href="https://spdx.org/licenses/BSD-3-Clause-No-Military-License.html">
                     BSD 3-Clause No Military
                 </a>{" "}
-                License . By continuing using this program, you acknowledge that
-                you are not involved in the design, construction, operation,
-                maintenance, or training of any military facility.
+                License. By continuing using this program, you acknowledge that
+                you are not voluntarily involved in the design, construction,
+                operation, maintenance, or training of any military facility.
             </>
         ),
         expires: null,
