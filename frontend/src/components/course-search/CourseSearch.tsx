@@ -237,7 +237,7 @@ const CourseSearchResults = memo(function CourseSearchResults(props: {
 
     if (props.sections.length === 0)
         return (
-            <div>
+            <div className={Css.resultsContainer}>
                 <CourseSearchEnd text="no courses in active term found" />
                 <MultiTermsSearchMenu />
 
