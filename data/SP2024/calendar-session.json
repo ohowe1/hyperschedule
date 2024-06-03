@@ -1,20 +1,5 @@
 [
   {
-    "externalId" : "FA2024",
-    "beginDate" : "20240826",
-    "endDate" : "20241206"
-  },
-  {
-    "externalId" : "FA2024P1",
-    "beginDate" : "20240826",
-    "endDate" : "20241011"
-  },
-  {
-    "externalId" : "FA2024P2",
-    "beginDate" : "20241016",
-    "endDate" : "20241206"
-  }
-  {
     "externalId" : "SP2024",
     "beginDate" : "20240116",
     "endDate" : "20240510"
