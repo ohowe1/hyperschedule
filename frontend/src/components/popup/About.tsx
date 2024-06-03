@@ -10,14 +10,14 @@ type Maintainer = {
 // future maintainer: don't forget to also add your name to
 // frontend/vite.config.ts
 const currentMaintainers: Maintainer[] = [
+];
+
+const previousMaintainers: Maintainer[] = [
     {
         name: "Mia Celeste",
         classYear: "HM '24",
         githubName: "mia1024",
     },
-];
-
-const previousMaintainers: Maintainer[] = [
     {
         name: "Kye Shi",
         classYear: "HM '22",
