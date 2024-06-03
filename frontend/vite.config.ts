@@ -4,7 +4,7 @@ import react from "@vitejs/plugin-react";
 import { readFileSync } from "fs";
 
 // list of usernames to exclude from contributors
-const maintainerGithubUsernames: string[] = ["mia1024", "kwshi", "raxod502"];
+const maintainerGithubUsernames: string[] = ["stuxf", "NextZtepS", "edonson2016", "mia1024", "kwshi", "raxod502"];
 let contributors: string;
 try {
     const fileData = JSON.parse(
