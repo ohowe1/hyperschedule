@@ -814,5 +814,9 @@
   {
     "area" : "4HSS",
     "description" : "HM 5C HSA Courses"
+  },
+  {
+    "area" : "ARCT",
+    "description" : "Architecture"
   }
 ]
